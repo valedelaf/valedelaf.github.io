@@ -17,6 +17,7 @@
     background-color:lightblue;
     text-align: justify;
   }
-  .container{
-    margin-right:0;
+  .containerstyle{
+    margin:auto;
+    align-items: center;
   }
