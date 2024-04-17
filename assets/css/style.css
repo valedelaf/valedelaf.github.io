@@ -1,0 +1,22 @@
+.navbar{
+    background-color: #212529;
+}
+.navbar-nav{
+    margin-left: 70%;
+}
+.nav-link{
+    color:white;
+}
+#Hero-Section {
+    background-image: url("../img/foto-header.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: left;
+  }
+  .Hero-Text{
+    background-color:lightblue;
+    text-align: justify;
+  }
+  .container{
+    margin-right:0;
+  }
