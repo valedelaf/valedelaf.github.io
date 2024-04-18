@@ -2,7 +2,7 @@
     background-color: #212529;
 }
 .navbar-nav{
-    margin-left: 70%;
+    margin-left: 60%;
 }
 .nav-link{
     color:white;
@@ -19,5 +19,19 @@
   }
   .containerstyle{
     margin:auto;
+    max-width: 100%;
     align-items: center;
+  }
+  .row_secondary {
+    display: flex;
+    justify-content: space-around;
+    text-align: center;
+  }
+  .row_secondary i {
+    font-size: 1.8em;
+    color: #2a8ded;
+  }
+  .row_secondary div {
+    padding: 1em 0;
+    width: 100%;
   }
